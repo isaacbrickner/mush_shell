@@ -1,0 +1,16 @@
+   // char s[2048];
+    //     char *args[] = {  // ls -a -l
+    //     "ls",
+    //     "-a",
+    //     "-l",
+    //     NULL   // Command arguments must end with NULL
+    // };
+
+        // pid_t pid = fork();
+
+            //     if ((token = strtok(s, " \t\n\r")) != NULL) {
+    //     do {
+    //         printf("Token: \"%s\"\n", token);
+    //     } while ((token = strtok(NULL, " \t\n\r")) != NULL);
+    // }
+    
